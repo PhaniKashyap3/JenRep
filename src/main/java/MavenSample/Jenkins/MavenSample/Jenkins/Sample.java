@@ -18,7 +18,7 @@ public class Sample {
 		logger.info("This is my first log4j's statement");
 */
 		// TODO Auto-generated method stub
-		System.out.println("Heyy!!Hello");
+		System.out.println("Heyy!!Hellooo");
 		
 	}
 
