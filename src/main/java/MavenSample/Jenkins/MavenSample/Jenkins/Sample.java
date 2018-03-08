@@ -9,7 +9,8 @@ public class Sample {
 		Logger logger = Logger.getLogger("");
 		BasicConfigurator.configure();
 		logger.info("This is my first log4j's statement");
-		
+		logger.info("This is my first log4j's statement");
+
 		// TODO Auto-generated method stub
 		System.out.println("Heyy!!Hello");
 		
