@@ -28,4 +28,17 @@
 </dependency>
     
   </dependencies>
+  <build>
+  <pluginManagement>
+  <plugins>
+  <plugin>
+      <configuration>
+          <mainClass>MavenSample.Jenkins.MavenSample.Jenkins.Sample</mainClass>
+      
+      
+    </configuration>
+   </plugin>
+  </plugins>
+  </pluginManagement>
+ </build>
 </project>
